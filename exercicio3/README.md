@@ -3,8 +3,9 @@
 Reescreva os códigos do arquivo script.js utilizando o if ternário.
 
 **Relembrando o if ternário**
+
 ```jsx
-condição ? expr1 : expr2
+condição ? expr1 : expr2;
 ```
 
 Onde :
